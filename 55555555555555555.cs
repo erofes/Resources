@@ -11,6 +11,7 @@ public class 55555555555555555 : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		////тестовая фигня....
+        for()efewfewfew
 	}
 }
